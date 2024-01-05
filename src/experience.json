@@ -1,0 +1,57 @@
+{
+    "experience": [
+      {
+        "id": 0,
+        "link": "https://www.capgemini.com/",
+        "company": "Capgemini",
+        "title": "Software Consultant",
+        "dateFrom": "Jan 2021",
+        "dateTo": "Current",
+        "info": [
+          "Responsible for web team front-end development and design",
+          "Here i worked in Auto-mobile domain and i created NPM library"
+        ],
+        "stack": ["Angular", "React.js", "Node.js", "Java", "Docker", "Postgresql", "AWS"],
+        "logoheight": 23,
+        "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
+        "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)",
+        "logo": "6c.png"
+      },
+      {
+        "id": 1,
+        "link": "https://www.vernost.com/",
+        "company": "Vernost",
+        "title": "Software Engineer",
+        "dateFrom": "Dec 2019",
+        "dateTo": "Jan 2021",
+        "info": [
+          "Create Static pages using Server Side Render and Server Side Generation to save static pages on server",
+          "Generated static page links save in XML sitemap for google crawler"
+        ],
+        "stack": ["Angulae", "React.js", "Node.js", "Next.js", "Mongodb", "Redis", "Mysql", "Jenkins", "SEO"],
+        "logowidth": 100,
+        "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
+        "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)",
+        "logo": "2c.jpg"
+
+      },
+      {
+        "id": 2,
+        "link": "https://mobisoftseo.com/",
+        "company": "Mobisoftseo",
+        "title": "Full-Stack Developer",
+        "dateFrom": "Feb 2028",
+        "dateTo": "Dec 2019",
+        "info": [
+          "Worked in multiple domains like E-Commerce, Society Management, Stock Management, here I did all project from scratch.",
+          "Here i was alone developer from web development team."
+        ],
+        "stack":  ["Angulae", "React.js", "Node.js", "Mongodb", "Mysql", "Firebase", "AWS"],
+        "logowidth": 120,
+        "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+        "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)",
+        "logo": "3c.png"
+
+      }
+    ]
+  }
